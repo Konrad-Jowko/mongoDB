@@ -11,10 +11,10 @@
     "chai": "4.2.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
-    "mocha": "6.2.1",
+    "mocha": "8.3.0",
     "mongodb": "3.3.2",
-    "mongoose": "5.7.1",
-    "nodemon": "^1.19.1",
+    "mongoose": "5.13.9",
+    "nodemon": "^2.0.3",
     "onchange": "6.1.0"
   }
 }
